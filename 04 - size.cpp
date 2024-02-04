@@ -22,5 +22,4 @@ int main()
     long int li;
     cout << "Size of long is : " << sizeof(li) << endl;
 
-
 }
