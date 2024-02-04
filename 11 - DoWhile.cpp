@@ -11,4 +11,3 @@ int main()
          cin>>n;
     } while (n>0);    
 }
-
