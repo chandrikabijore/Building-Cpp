@@ -10,5 +10,5 @@ int main()
     
     int sum = amonut1 + amonut2;
     cout<<"Total amount : " << sum;
+    
 }
-
