@@ -17,4 +17,4 @@ ko
 k
 uj
 i
-m
+ms
