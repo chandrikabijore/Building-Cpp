@@ -15,6 +15,6 @@ gj
 g
 k
 k
-u
+uj
 i
 m
