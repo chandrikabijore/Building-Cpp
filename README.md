@@ -13,7 +13,7 @@ gfb
 gt
 gj
 g
-k
+ko
 k
 uj
 i
